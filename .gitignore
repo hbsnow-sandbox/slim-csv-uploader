@@ -1,0 +1,5 @@
+# composer
+/vendor
+
+# dcoker
+/db_data
